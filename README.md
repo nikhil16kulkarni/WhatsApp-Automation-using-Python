@@ -15,9 +15,22 @@ First of all, you need to Jupyter Notebook for this. After opening Jupyter Noteb
 
 ### After Installing Above Materials : 
 
+---
+
+#### WhatsApp Chatbot - Text :
+
 Run the [code](https://github.com/nikhilk16/WhatsApp-Automation-using-Python/blob/master/whatsappChatbot.ipynb) on your Notebook. </br>
 Read the comments properly. Type Recipient's Name (Note : The name should not contain space. For example : **Abc Xyz** won't work whereas **Abc_Xyz** or **AbcXyz** will work.
 Write The message you want to send to the recipient. After writing the message, write the no. of times you want to send the message to that recipient. </br></br>
+
+---
+
+#### Whatsapp Chatbot - Text, Image & Video :
+
+Run the [code](https://github.com/nikhilk16/WhatsApp-Automation-using-Python/blob/master/WhatsappChatbot%20-%20Text%20%26%20Image.ipynb) on your Notebook. </br>
+Read the comments properly. Type Recipient's Name (Note : The name should not contain space. For example : **Abc Xyz** won't work whereas **Abc_Xyz** or **AbcXyz** will work.
+Write The message you want to send to the recipient. After writing the message, write the no. of times you want to send the message to that recipient. After that type the path of Image/Video you want to send. </br></br>
+
 
 Then run the program.
 
